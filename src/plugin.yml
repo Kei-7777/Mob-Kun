@@ -1,0 +1,10 @@
+name: MobKun
+main: kei.com.mob.Mob
+version: 1.0-dev
+author: Kei
+api-version: 1.15
+description: Kun server mob plugin
+commands:
+  mobkun:
+    aliases:
+      - mk
